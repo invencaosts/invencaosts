@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align=left>
+  <strong>
+    "
+  </strong>
+</p>
 
-<!--
-**invencaosts/invencaosts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p alignm=center>
+  <samp>
+    Ah! Eu é que não me sento <br>
+    No trono de um apartamento <br>
+    Com a boca escancarada, cheia de dentes <br>
+    Esperando a morte chegar
+    <br>
+    <br>
+    Porque longe das cercas embandeiradas <br>
+    Que separam quintais <br>
+    No cume calmo do meu olho que vê <br>
+    Assenta a sombra sonora dum disco voador
+  </samp>
+</p>
 
-Here are some ideas to get you started:
+<p align=right>
+  <samp>
+    - Raul Seixas
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align=right>
+  <strong>
+    "
+  </strong>
+</p>
