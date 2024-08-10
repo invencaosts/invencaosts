@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left"><a href="#https://github.com/invencaosts?tab=repositories">Veja meus projetos na aba dos meus repositórios.</a></h2>
+<h2 align="left"> <a href="#https://github.com/invencaosts?tab=repositories">Veja meus projetos na aba dos meus repositórios.</a> </h2>
 
 ---
 
@@ -68,4 +68,4 @@
 
 ###
 
-<h2 align="left"><a href="#https://github.com/invencaosts?tab=repositories">See my projects in my repositories tab.</a></h2>
+<h2 align="left"> <a href="#https://github.com/invencaosts?tab=repositories">See my projects in my repositories tab.</a> </h2>
