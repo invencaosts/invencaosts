@@ -1,4 +1,4 @@
-<p>README.md available in English. <a href="#hey-👋--what's--up?">Go To!</a></p>
+<p>README.md available in English. <a href="#hey--whats-up">Go To!</a></p>
 
 <h1 align="left">Ei 👋 E aí?</h1>
 
