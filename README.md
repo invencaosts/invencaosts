@@ -1,33 +1,72 @@
-<p align=left>
-  <strong>
-    "
-  </strong>
-</p>
+<p>README.md available in English. <a href="#hey-👋--what's--up?">Go To!</a></p>
 
-<p alignm=center>
-  <samp>
-    Ah! Eu é que não me sento <br>
-    No trono de um apartamento <br>
-    Com a boca escancarada, cheia de dentes <br>
-    Esperando a morte chegar
-    <br>
-    <br>
-    Porque longe das cercas embandeiradas <br>
-    Que separam quintais <br>
-    No cume calmo do meu olho que vê <br>
-    Assenta a sombra sonora dum disco voador
-  </samp>
-</p>
+<h1 align="left">Ei 👋 E aí?</h1>
 
-<p align=right>
-  <samp>
-    - Raul Seixas
-  </samp>
-</p>
+###
 
+<p align="left">Venha descobrir um pouco mais sobre mim e meus projetos.</p>
 
-<p align=right>
-  <strong>
-    "
-  </strong>
-</p>
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">Sou um Desenvolvedor de Software com experiência em desenvolvimento web. Iniciei minha jornada na programação em 2021 e sou apaixonado por novas tecnologias. Estou sempre buscando aprender e me aprimorar a cada dia.<br><br>Tenho foco em desenvolvimento utilizando tecnologias web, como JavaScript, TypeScript, ReactJS, entre outras. Atualmente, estou estudando tecnologias para desenvolvimento mobile, como Java e Kotlin.<br><br>Me considero decidido e entusiasmado em relação ao aprendizado de novas linguagens e tecnologias. Além disso, sou adaptável a mudanças e estou sempre pronto para superar qualquer desafio.</p>
+
+###
+
+<h2 align="left">Linguagens que eu utilizo</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="left">Veja meus projetos na aba dos meus repositórios.</h2>
+
+###
+---
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">Come and discover a little more about me and my projects.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I am a Software Developer with experience in web development. I started my programming journey in 2021 and I am passionate about new technologies. I am always looking to learn and improve myself every day.<br><br>I focus on development using web technologies, such as JavaScript, TypeScript, ReactJS, among others. Currently, I am studying technologies for mobile development, such as Java and Kotlin.<br><br>I consider myself determined and enthusiastic about learning new languages ​​and technologies. Furthermore, I am adaptable to changes and am always ready to overcome any challenge.</p>
+
+###
+
+<h2 align="left">Technologies in my daily life</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="left">See my projects in my repositories tab.</h2>
