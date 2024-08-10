@@ -34,7 +34,6 @@
 
 <h2 align="left">Veja meus projetos na aba dos meus repositórios.</h2>
 
-###
 ---
 
 <h1 align="left">Hey 👋 What's up?</h1>
