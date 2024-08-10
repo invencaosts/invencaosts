@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Linguagens que eu utilizo</h2>
+<h2 align="left">Linguagens que eu utilizo no meu dia a dia</h2>
 
 ###
 
