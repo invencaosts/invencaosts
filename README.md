@@ -32,6 +32,10 @@
 
 ###
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+###
+
 <h2 align="left"> <a href="https://github.com/invencaosts?tab=repositories">Veja meus projetos na aba dos meus repositórios.</a> </h2>
 
 ---
