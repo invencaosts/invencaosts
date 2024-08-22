@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que eu utilizo no meu dia a dia</h2>
+<h4 align="left">Tecnologias que eu utilizo no meu dia a dia</h4>
 
 ###
 
