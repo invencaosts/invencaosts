@@ -3,14 +3,13 @@
 <h1 align="left">Oi! Tudo bem??</h1>
 <h3 align="left">Seja bem-vindo ao meu GitHub, espero que goste!</h3>
 
-<p align="left">
-  <a href="https://github.com/invencaosts/invencaosts">
-    <img src="https://komarev.com/ghpvc/?username=invencaosts" alt="page views" />
-  </a>
-  <a href="https://github.com/invencaosts?tab=stars">
-    <img alt="GitHub followers" src="https://img.shields.io/github/stars/invencaosts?style=flat&logo=github">
-  </a>
-</p>
+
+<a href="https://github.com/invencaosts/invencaosts">
+  <img src="https://komarev.com/ghpvc/?username=invencaosts" alt="page views" />
+</a>
+<a href="https://github.com/invencaosts?tab=stars">
+  <img alt="GitHub followers" src="https://img.shields.io/github/stars/invencaosts?style=flat&logo=github">
+</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/guilherme-da-invencao-santos-556497282)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/invencaodev/)
