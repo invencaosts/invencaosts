@@ -1,10 +1,16 @@
 <p>README.md available in English. <a href="#hey--whats-up">Go To!</a></p>
 
-<h1 align="left">Olá 👋 E aí?</h1>
+<h1 align="left">Oi! Tudo bem??</h1>
+<h3 align="left">Seja bem-vindo ao meu GitHub, espero que goste!</h3>
 
-###
-
-<p align="left">Sou um Desenvolvedor de Software com experiência em desenvolvimento web. Iniciei minha jornada na programação em 2021 e sou apaixonado por novas tecnologias. Estou sempre buscando aprender e me aprimorar a cada dia.<br><br>Tenho foco em desenvolvimento utilizando tecnologias web, como JavaScript, TypeScript, ReactJS, entre outras. Atualmente, estou estudando tecnologias para desenvolvimento mobile, como Java e Kotlin.<br><br>Me considero decidido e entusiasmado em relação ao aprendizado de novas linguagens e tecnologias. Além disso, sou adaptável a mudanças e estou sempre pronto para superar qualquer desafio.</p>
+<p align="left">
+  <a href="https://github.com/invencaosts/invencaosts">
+    <img src="https://komarev.com/ghpvc/?username=invencaosts" alt="page views" />
+  </a>
+  <a href="https://github.com/invencaosts?tab=stars">
+    <img alt="GitHub followers" src="https://img.shields.io/github/stars/invencaosts?style=flat&logo=github">
+  </a>
+</p>
 
 ###
 
