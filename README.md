@@ -6,6 +6,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/guilherme-da-invencao-santos-556497282)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/invencaodev/)
 
+<h2 align="left">Sobre mim</h2>
+
+<p align="left">Sou um Desenvolvedor de Software com experiência em desenvolvimento web. Iniciei minha jornada na programação em 2021 e sou apaixonado por novas tecnologias. Estou sempre buscando aprender e me aprimorar a cada dia.<br><br>Tenho foco em desenvolvimento utilizando tecnologias web, como JavaScript, TypeScript, ReactJS, entre outras. Atualmente, estou estudando tecnologias para desenvolvimento mobile, como Java e Kotlin.<br><br>Me considero decidido e entusiasmado em relação ao aprendizado de novas linguagens e tecnologias. Além disso, sou adaptável a mudanças e estou sempre pronto para superar qualquer desafio.</p>
+
+
 <h2 align="left" id="macropower-tech">Tecnologias preferidas</h2>
 
 > Ferramentas, linguagens e outras coisas com as quais gosto de trabalhar.
@@ -19,10 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=invencaosts)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invencaosts&layout=compact)
 
 ---
 
@@ -49,6 +50,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=invencaosts)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invencaosts&layout=compact)
 
 <a href="https://github.com/invencaosts/invencaosts">
   <img src="https://komarev.com/ghpvc/?username=invencaosts" alt="page views" />
