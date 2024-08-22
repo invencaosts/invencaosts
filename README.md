@@ -6,6 +6,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/guilherme-da-invencao-santos-556497282)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/invencaodev/)
 
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
 ###
 
 <h3 align="left">Tecnologias que eu utilizo no meu dia a dia</h3>
