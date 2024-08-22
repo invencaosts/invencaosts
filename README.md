@@ -1,6 +1,6 @@
 <p>README.md available in English. <a href="#hey--whats-up">Go To!</a></p>
 
-<h1 align="left">Ei 👋 E aí?</h1>
+<h1 align="left">Olá 👋 E aí?</h1>
 
 ###
 
