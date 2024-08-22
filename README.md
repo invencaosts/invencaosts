@@ -53,9 +53,6 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=invencaosts)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invencaosts&layout=compact)
-
 <a href="https://github.com/invencaosts/invencaosts">
   <img src="https://komarev.com/ghpvc/?username=invencaosts" alt="page views" />
 </a>
