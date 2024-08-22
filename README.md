@@ -4,14 +4,6 @@
 
 ###
 
-<p align="left">Venha descobrir um pouco mais sobre mim e meus projetos.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
 <p align="left">Sou um Desenvolvedor de Software com experiência em desenvolvimento web. Iniciei minha jornada na programação em 2021 e sou apaixonado por novas tecnologias. Estou sempre buscando aprender e me aprimorar a cada dia.<br><br>Tenho foco em desenvolvimento utilizando tecnologias web, como JavaScript, TypeScript, ReactJS, entre outras. Atualmente, estou estudando tecnologias para desenvolvimento mobile, como Java e Kotlin.<br><br>Me considero decidido e entusiasmado em relação ao aprendizado de novas linguagens e tecnologias. Além disso, sou adaptável a mudanças e estou sempre pronto para superar qualquer desafio.</p>
 
 ###
@@ -33,10 +25,6 @@
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=invencaosts)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invencaosts&layout=compact)
-
-###
-
-<h2 align="left"> <a href="https://github.com/invencaosts?tab=repositories">Veja meus projetos na aba dos meus repositórios.</a> </h2>
 
 ---
 
