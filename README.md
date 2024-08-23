@@ -1,7 +1,6 @@
 <p>README.md available in English. <a href="#hey--whats-up">Go To!</a></p>
 
-<h1 align="left">Oi! Me chamo Guilherme, mas pode me chamar de Invenção.</h1>
-<h3 align="left">Seja bem-vindo ao meu GitHub, espero que goste!</h3>
+<h3 align="left">Oi! Me chamo Guilherme, mas pode me chamar de Invenção.</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/guilherme-da-invencao-santos-556497282)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/invencaodev/)
