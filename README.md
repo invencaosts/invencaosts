@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imgs/banner.png" width="100%" alt="Meme do Feijão com Farinha" />
+  <img src="imgs/banner.png" width="100%" alt="Banner Pessoal de Informação" />
   
   <h1 align="center">Olá! Eu sou Guilherme da Invenção 👋</h1>
   
@@ -33,17 +33,17 @@ Minha trajetória é pautada pela adaptabilidade técnica e pelo compromisso com
 ### 💼 Experiência Profissional (Linha do Tempo)
 
 #### **WM Saúde - Gestão e Tecnologia**
-*   **Desenvolvedor Júnior** | Março 2026 – Presente (3 meses)
+*   **Engenheiro de Software Júnior** | Março 2026 – Presente
     *   *Efetivado como Desenvolvedor Júnior, ampliando o escopo de atuação para além do suporte e manutenção contínua de sistemas PHP. Atualmente, sou o principal responsável pelo ecossistema e-Smart, responsável pelas automações da Central de Atendimento e ferramentas de gestão de processos.*
-*   **Estagiário de Desenvolvimento PHP** | Dezembro 2025 – Fevereiro 2026 (3 meses)
+*   **Estagiário de Desenvolvimento PHP** | Dezembro 2025 – Fevereiro 2026
     *   *Atuação no suporte e manutenção de sistemas desenvolvidos em PHP, contribuindo para a estabilidade, correção de falhas e melhoria contínua das aplicações utilizadas pela empresa.*
 
 #### **GeoServer - CNPq**
-*   **Desenvolvedor Freelance** | Junho 2025 – Presente (1 ano)
+*   **Desenvolvedor Freelance** | Junho 2025 – Presente
     *   *Desenvolvimento de um software de ponta para o compartilhamento e análise de dados de terras griladas no território brasileiro, utilizando ferramentas online e APIs para visualização de dados.*
 
 #### **BST Networks - Brasil Service Telecom Ltda.**
-*   **Desenvolvedor Full Stack Freelance** | Fevereiro 2025 – Maio 2025 (4 meses)
+*   **Desenvolvedor Full Stack Freelance** | Fevereiro 2025 – Maio 2025
     *   *Full Stack Developer atuando com .NET Framework.*
 
 ---
