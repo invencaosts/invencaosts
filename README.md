@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imgs/cristiano_mm.jpeg" width="30%" alt="Meme do Feijão com Farinha" />
+  <img src="imgs/banner.png" width="100%" alt="Meme do Feijão com Farinha" />
   
   <h1 align="center">Olá! Eu sou Guilherme da Invenção 👋</h1>
   
