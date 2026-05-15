@@ -30,7 +30,7 @@ Minha trajetória é pautada pela adaptabilidade técnica e pelo compromisso com
 
 ---
 
-### 💼 Experiência Profissional (Linha do Tempo)
+### 💼 Experiência Profissional
 
 #### **WM Saúde - Gestão e Tecnologia**
 *   **Engenheiro de Software Júnior** | Março 2026 – Presente
