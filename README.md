@@ -18,7 +18,7 @@
 
 ### 🚀 Sobre Mim
 
-<p>Desenvolvedor Full Stack com experiência consolidada na construção, manutenção e evolução de sistemas para setores críticos: Saúde Pública (gestão hospitalar, ecossistemas municipais de saúde), Gestão Empresarial (ERP) e Geolocalização/Web GIS. Atuação ponta a ponta: interfaces e lógica de negócio em TypeScript, com React, Next.js, Node.js e AdonisJS, além de Java, C#/.NET e PHP/Laravel.</p>
+<p>Desenvolvedor Full Stack com experiência consolidada na construção, manutenção e evolução de sistemas para setores críticos: Saúde Pública (gestão hospitalar, ecossistemas municipais de saúde), Gestão Empresarial (ERP), Geolocalização/Web GIS e Educação. Atuação ponta a ponta: interfaces e lógica de negócio em TypeScript, com React, Next.js, Node.js e AdonisJS, além de Java, C#/.NET e PHP/Laravel.</p>
 
 <p>Modelagem e administração de bases de dados relacionais e não-relacionais (PostgreSQL, MySQL, SQL Server, MongoDB), com foco em integridade e sincronização de dados entre ambientes. Entregas padronizadas com Docker, Linux e Git, seguindo metodologias ágeis (Scrum/Kanban) e boas práticas de API REST. Atuação também em automações (N8N, bots) e integrações com sistemas públicos e governamentais, além de pesquisa aplicada em Cibersegurança.</p>
 
@@ -32,9 +32,14 @@
 
 ### 💼 Experiência Profissional
 
+#### Neuroverse
+
+<p><strong>Engenheiro de Software / Desenvolvedor de Software Júnior</strong> | Setembro 2026 - Presente<br/>
+<em>Desenvolvimento Full Stack do ecossistema educacional da Neuroverse com TypeScript, React, Node.js/NestJS, PostgreSQL e Drizzle ORM. Atuação nas plataformas Littera e Talentos, incluindo módulos de gestão escolar, avaliações neuroeducacionais, PEI/PAEE, planos de reforço, relatórios pedagógicos e dashboards. Integração com jogos 3D em Unity e implementação de recursos de Inteligência Artificial, OCR e RAG com pgvector para análise documental, geração de relatórios e atividades e tutoria baseada em materiais didáticos.</em></p>
+
 #### WM Saúde - Gestão e Tecnologia
 
-<p><strong>Engenheiro de Software / Desenvolvedor de Software Júnior</strong> | Março 2026 – Presente<br/>
+<p><strong>Engenheiro de Software / Desenvolvedor de Software Júnior</strong> | Março 2026 – Setembro 2026<br/>
 <em>Desenvolvedor principal do ecossistema e-smart (plataforma modular para equipes de saúde municipal), gerenciando os microssistemas Medbooking (agendamento de consultas), Medstock (gestão de estoque de unidades de saúde) e SmartSamu (registro de ocorrências). Concepção e implementação de módulos de Gestão de Farmácia Pública, Vigilância Sanitária e fluxos de Procedimentos/Atendimentos. Desenvolvimento de bot de automação (N8N) para central de atendimento e integrações via API REST com sistemas públicos/governamentais. Rotinas de DevOps: gerenciamento de servidores Linux, deploys com Docker e sincronização de bases de dados complexas.</em></p>
 
 <p><strong>Estagiário em Desenvolvimento de Software</strong> | Dezembro 2025 – Março 2026<br/>
