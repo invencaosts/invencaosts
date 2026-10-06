@@ -23,6 +23,7 @@
 <p>Modelagem e administração de bases de dados relacionais e não-relacionais (PostgreSQL, MySQL, SQL Server, MongoDB), com foco em integridade e sincronização de dados entre ambientes. Entregas padronizadas com Docker, Linux e Git, seguindo metodologias ágeis (Scrum/Kanban) e boas práticas de API REST. Atuação também em automações (N8N, bots) e integrações com sistemas públicos e governamentais, além de pesquisa aplicada em Cibersegurança.</p>
 
 <p>
+📒 Desenvolvedor da plataforma <strong>Talentos</strong> (Neuroverse), uma plataforma para equipes de atenção especializada das escolas, que auxilia na identificação de traços de Altas Habilidades/Superdotação em alunos.<br/>
 🚑 Desenvolvedor principal do ecossistema <strong>e-smart</strong> (WM Saúde), plataforma modular para equipes de saúde municipal.<br/>
 🗺️ Desenvolvedor principal do <strong>Observatório Grilagem de Terras</strong> (Web GIS/GeoServer, CNPq).<br/>
 🎓 Formação acadêmica pelo <strong>IFS (Instituto Federal de Sergipe)</strong> — Bacharelado em Tecnologia da Informação (2024–2028).
