@@ -1,5 +1,5 @@
 <div align="center">
-<img src="imgs/banner.png" width="100%" alt="Banner Pessoal de Informação" />
+<img src="imgs/banner-linkedin.jpg" width="100%" alt="Banner Pessoal de Informação" />
 
 <h1 align="center">Olá! Eu sou Guilherme da Invenção 👋</h1>
 
